@@ -1,8 +1,6 @@
 ### Olá, eu sou Roberto Prado 👋
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas
 - contato: robertoprado89@gmail.com
 <div align="center">
