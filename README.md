@@ -1,7 +1,7 @@
 ### Olá, eu sou Roberto Prado 👋
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas
+- 🌱 Application developer.
 - contato: robertoprado89@gmail.com
 <div align="center">
   <a href="https://github.com/94nirvana">
