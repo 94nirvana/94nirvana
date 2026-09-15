@@ -8,6 +8,5 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Google Gemini" height="30" width="40" src="https://www.gstatic.com/lamda/images/gemini_favicon_f06b31520c825905d4506.png">
-  <img align="center" alt="Hermes AI" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ai.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
