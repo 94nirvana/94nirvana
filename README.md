@@ -7,8 +7,6 @@
   Engenheiro de Software focado em construir aplicações web escaláveis, resilientes e seguras.  
   Entusiasta dos princípios de **Clean Code**, **Design Patterns** e **Security by Design (OWASP)**.
 
-  [💼 LinkedIn](https://linkedin.com/in/seu-perfil) • [📧 E-mail](mailto:seu-email@dominio.com) • [🌐 Portfolio](https://seu-portfolio.com)
-
 ---
 
 ### 🛡️ **Tech Stack & Ferramentas**
@@ -54,15 +52,6 @@
 - 📐 **Clean Architecture & SOLID:** Código limpo, modular, orientado à responsabilidade única e de fácil manutenibilidade.
 - 🛡️ **AppSec & OWASP Top 10:** Sanitização estrita de entradas, proteção contra Injections/XSS, controle de taxa (Rate Limit) e armazenamento seguro de credenciais.
 - ⚡ **Resiliência e Performance:** Uso estratégico de cache in-memory (Redis), chamadas assíncronas otimizadas e tratamento gracioso de falhas externas.
-
----
-
-### 📊 **Estatísticas do GitHub**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=94nirvana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=94nirvana&layout=compact&theme=radical&hide=html,css"/>
-</div>
 
 ---
 
