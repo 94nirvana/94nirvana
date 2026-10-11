@@ -38,15 +38,6 @@
 
 ---
 
-### 🚀 **Projetos em Destaque**
-
-| Projeto | Descrição | Tech Stack |
-| :--- | :--- | :--- |
-| 🛒 [**electronics_store**](https://github.com/94nirvana/eletronics_store) | API e sistema completo de e-commerce com gestão de produtos, carrinho, autenticação JWT e regras rígidas de validações (Zod). | `Node.js`, `TypeScript`, `Express`, `PostgreSQL/Prisma` |
-| 🪙 [**crypto-cotacao**](https://github.com/94nirvana/crypto-cotacao) | API e Dashboard de monitoramento e conversão de cotações cripto em tempo real com resiliência, caching e mitigação de rate limits. | `Node.js`, `Redis`, `Express`, `Chart.js` |
-
----
-
 ### 🔒 **Diretrizes e Filosofia de Desenvolvimento**
 
 - 📐 **Clean Architecture & SOLID:** Código limpo, modular, orientado à responsabilidade única e de fácil manutenibilidade.
