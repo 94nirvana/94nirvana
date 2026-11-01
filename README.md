@@ -20,19 +20,19 @@
 
 `clima-brasil`: Node.js 20+, Express e API Open-Meteo · `todo-terminal`: Node.js 20.11+, módulos nativos e OpenAPI · `crypto-dashboard`: Node.js 18+, APIs nativas e CoinGecko.
 
-#### **Mobile**
+#### **Mobile — gym-app**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-Android nativo · Android Studio e SDK 34 (mínimo API 24) · JDK 17 · Gradle 8.7 e Android Gradle Plugin 8.3.2 · AndroidX, Material e ViewBinding.
+`gym-app`: Android nativo · Android Studio e SDK 34 (mínimo API 24) · JDK 17 · Gradle 8.7 e Android Gradle Plugin 8.3.2 · AndroidX, Material e ViewBinding.
 
 #### **Persistência, testes e ferramentas**
-Room, SQLite/SQLCipher, Android Keystore/Security Crypto e Coroutines.
+`gym-app`: Room, SQLite/SQLCipher, Android Keystore/Security Crypto e Coroutines.
 
 Apps web: npm e testes com `node:test`; `todo-terminal` também documenta a API com OpenAPI.
 
-Testes Android: JUnit 4 e AndroidX.
+Testes Android do `gym-app`: JUnit 4 e AndroidX.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
