@@ -11,28 +11,30 @@
 
 ### 🛡️ **Tech Stack & Ferramentas**
 
-#### **Languages & Runtimes**
+#### **Web — clima-brasil, todo-terminal e crypto-dashboard**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### **Back-End & Databases**
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### **Front-End & UI**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **DevOps, Security & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+`clima-brasil`: Node.js 20+, Express e API Open-Meteo · `todo-terminal`: Node.js 20.11+, módulos nativos e OpenAPI · `crypto-dashboard`: Node.js 18+, APIs nativas e CoinGecko.
+
+#### **Mobile**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+Android nativo · Android Studio e SDK 34 (mínimo API 24) · JDK 17 · Gradle 8.7 e Android Gradle Plugin 8.3.2 · AndroidX, Material e ViewBinding.
+
+#### **Persistência, testes e ferramentas**
+Room, SQLite/SQLCipher, Android Keystore/Security Crypto e Coroutines.
+
+Apps web: npm e testes com `node:test`; `todo-terminal` também documenta a API com OpenAPI.
+
+Testes Android: JUnit 4 e AndroidX.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OWASP](https://img.shields.io/badge/OWASP-AppSec-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -42,7 +44,7 @@
 
 - 📐 **Clean Architecture & SOLID:** Código limpo, modular, orientado à responsabilidade única e de fácil manutenibilidade.
 - 🛡️ **AppSec & OWASP Top 10:** Sanitização estrita de entradas, proteção contra Injections/XSS, controle de taxa (Rate Limit) e armazenamento seguro de credenciais.
-- ⚡ **Resiliência e Performance:** Uso estratégico de cache in-memory (Redis), chamadas assíncronas otimizadas e tratamento gracioso de falhas externas.
+- ⚡ **Resiliência e Performance:** Chamadas assíncronas e tratamento gracioso de falhas em serviços externos.
 
 ---
 
