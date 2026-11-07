@@ -25,7 +25,9 @@ Desenvolvo projetos Android e web enquanto estudo arquitetura de software, persi
 ### 📱 Projetos Android
 
 - **[Cozinha Timer](https://github.com/94nirvana/app_cozinha)** — aplicativo Android nativo em Kotlin e Jetpack Compose. Organiza a interface, ViewModel, domínio/casos de uso e dados em um único módulo. Usa Room para persistência local e `AlarmManager` para os timers; funciona sem rede.
+- **[F1tn3SS](https://github.com/94nirvana/f1tn3ss)** — aplicativo Android nativo em Kotlin e Jetpack Compose para organizar fichas de treino, registrar séries e acompanhar a evolução das cargas. Funciona offline e salva os dados localmente em JSON com escrita atômica.
 - **[GymTrack](https://github.com/94nirvana/gym-app)** — aplicativo Android nativo em Kotlin para registrar treinos, séries, cargas e histórico. Funciona offline e permite exportar e restaurar backups JSON. O README do projeto descreve persistência local, sem especificar a tecnologia de armazenamento.
+- **[Jiu-Jitsu Diário](https://github.com/94nirvana/jiu_app)** — aplicativo Android nativo em Kotlin e Jetpack Compose para acompanhar treinos, evolução técnica, saúde, campeonatos e turmas. Funciona offline, usa Room com SQLCipher para persistência criptografada no aparelho e segue arquitetura em camadas.
 
 ### 🌐 Projetos web
 
@@ -35,7 +37,7 @@ Desenvolvo projetos Android e web enquanto estudo arquitetura de software, persi
 
 ### 🧪 Práticas e ferramentas
 
-Os projetos Android usam Gradle; os READMEs dos projetos web descrevem testes com o runner nativo do Node.js (`node:test`). Os projetos também documentam práticas de validação, resiliência e segurança adequadas aos seus contextos.
+Os projetos Android usam Gradle; `f1tn3ss` documenta testes unitários e lint, e `jiu_app` inclui testes JVM, Robolectric para a camada de dados e testes da lógica de telas. Os READMEs dos projetos web descrevem testes com o runner nativo do Node.js (`node:test`). Os projetos também documentam práticas de validação, resiliência e segurança adequadas aos seus contextos.
 
 <div align="center">
 
